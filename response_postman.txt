@@ -1,0 +1,42 @@
+[
+  {
+    "patient_name": "Eliza Holding",
+    "doctor_name": "Karter Wyatt"
+  },
+  {
+    "patient_name": "Eugene Dodson",
+    "doctor_name": "Karter Wyatt"
+  },
+  {
+    "patient_name": "Ayat Chase",
+    "doctor_name": "Konnor Strickland"
+  },
+  {
+    "patient_name": "Bear Curry",
+    "doctor_name": "Konnor Strickland"
+  },
+  {
+    "patient_name": "Josephine Reeve",
+    "doctor_name": "Tai Cabrera"
+  },
+  {
+    "patient_name": "Alannah Rowley",
+    "doctor_name": "Tai Cabrera"
+  },
+  {
+    "patient_name": "Ayse Boyce",
+    "doctor_name": "Aron Saunders"
+  },
+  {
+    "patient_name": "Giulia Horton",
+    "doctor_name": "Aron Saunders"
+  },
+  {
+    "patient_name": "Abdi Barclay",
+    "doctor_name": "Mamie Vinson"
+  },
+  {
+    "patient_name": "Blanche Cummings",
+    "doctor_name": "Mamie Vinson"
+  }
+]
